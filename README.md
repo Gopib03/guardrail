@@ -170,7 +170,7 @@ Apache 2.0 - See [LICENSE](LICENSE)
 
 - **GitHub**: https://github.com/gopib03/guardrail
 - **Documentation**: https://guardrail.dev
-- **Issues**: https://github.com/yourusername/guardrail/issues
+- **Issues**: https://github.com/gopib03/guardrail/issues
 
 ---
 
