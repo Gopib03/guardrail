@@ -140,6 +140,7 @@ All attacks successfully blocked
 - [Technical Architecture](docs/TECHNICAL_ARCHITECTURE.md)
 - [API Reference](docs/API.md)
 
+
 ## 🎓 Research
 
 GuardRail implements novel algorithms suitable for publication:
@@ -151,6 +152,7 @@ GuardRail implements novel algorithms suitable for publication:
 ## 🤝 Contributing
 
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md)
+
 
 ## 📄 License
 
@@ -171,6 +173,7 @@ Apache 2.0 - See [LICENSE](LICENSE)
 - **GitHub**: https://github.com/gopib03/guardrail
 - **Documentation**: https://guardrail.dev
 - **Issues**: https://github.com/gopib03/guardrail/issues
+
 
 ---
 
